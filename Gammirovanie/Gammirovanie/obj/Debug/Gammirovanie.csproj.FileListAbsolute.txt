@@ -1,0 +1,12 @@
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\bin\Debug\Gammirovanie.exe.config
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\bin\Debug\Gammirovanie.exe
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\bin\Debug\Gammirovanie.pdb
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.csproj.AssemblyReference.cache
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.Form1.resources
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.Properties.Resources.resources
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.csproj.GenerateResource.cache
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.csproj.CoreCompileInputs.cache
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.exe
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.pdb
+C:\Users\DANYA\source\repos\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.Form2.resources

@@ -1,0 +1,13 @@
+C:\Users\DANYA\source\repos\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\DANYA\source\repos\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\DANYA\source\repos\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.Form2.resources
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\DANYA\source\repos\RSA\RSA\obj\Debug\RSA.Form3.resources

@@ -1,0 +1,13 @@
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\bin\Debug\Гаммирование_ИБ.exe.config
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\bin\Debug\Гаммирование_ИБ.exe
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\bin\Debug\Гаммирование_ИБ.pdb
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.csproj.AssemblyReference.cache
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.Form1.resources
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.Form2.resources
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.Form3.resources
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.Properties.Resources.resources
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.csproj.GenerateResource.cache
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.csproj.CoreCompileInputs.cache
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.exe
+C:\Users\DANYA\source\repos\Гаммирование_ИБ\Гаммирование_ИБ\obj\Debug\Гаммирование_ИБ.pdb
